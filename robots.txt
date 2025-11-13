@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://groupalnaddy4-sys.github.io/inverter/sitemap.xml
